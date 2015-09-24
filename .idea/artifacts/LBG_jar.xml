@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LBG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LBG_jar</output-path>
+    <root id="archive" name="LBG.jar">
+      <element id="module-output" name="LBG" />
+    </root>
+  </artifact>
+</component>
